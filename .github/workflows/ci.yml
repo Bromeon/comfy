@@ -4,8 +4,8 @@ on:
   merge_group:
   pull_request:
   push:
-    branches:
-      - master
+#    branches:
+#      - master
 
 env:
   CARGO_TERM_COLOR: always
